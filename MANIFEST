@@ -1,0 +1,18 @@
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+lib/List/Permutor/LOL.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+t/00.use.t
+t/all-scalar.t
+t/keep-scalar.t
+t/peek.t
+t/reset.t
+t/simple.t
